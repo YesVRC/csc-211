@@ -11,7 +11,7 @@ public class Main {
         int maxGuesses = 5;
         int guesses = 0;
         int randomNumber = rand.nextInt(10);
-        System.out.println("DEBUG: " + randomNumber);
+        //System.out.println("DEBUG: " + randomNumber);
 
         while (guesses <= maxGuesses && !guessed) {
             System.out.print("Guess a number between 1 and 10: ");
