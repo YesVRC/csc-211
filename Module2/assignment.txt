@@ -1,7 +1,0 @@
-1. Watched
-
-2. Arrays are useful for storing a set of related information (a list of transactions, grades of student on a particular test).
-
-3. Object and Classes are used to share methods, properties, and other characteristics across objects.
-
-4. https://github.com/YesVRC/csc-211/blob/master/Module2/src/Bank.java
