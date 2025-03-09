@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment1/Assignment1.iml" filepath="$PROJECT_DIR$/Assignment1/Assignment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment2/Assignment2.iml" filepath="$PROJECT_DIR$/Assignment2/Assignment2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment3/Assignment3.iml" filepath="$PROJECT_DIR$/Assignment3/Assignment3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment4/Assignment4.iml" filepath="$PROJECT_DIR$/Assignment4/Assignment4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Module2/Module2.iml" filepath="$PROJECT_DIR$/Module2/Module2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aaaaaaaa/aaaaaaaa.iml" filepath="$PROJECT_DIR$/aaaaaaaa/aaaaaaaa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/assignment-1/assignment-1.iml" filepath="$PROJECT_DIR$/assignment-1/assignment-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment5/Assignment5.iml" filepath="$PROJECT_DIR$/Assignment5/Assignment5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/csc211.iml" filepath="$PROJECT_DIR$/.idea/csc211.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-repo/test-repo.iml" filepath="$PROJECT_DIR$/test-repo/test-repo.iml" />
     </modules>
