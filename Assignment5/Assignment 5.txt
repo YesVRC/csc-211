@@ -1,0 +1,24 @@
+1.
+Section 1:
+- Testing a function requires the function's to be checked using an assert function that takes the expected value then the function call.
+- Tests must have the @Test annotation, which allows the function test to show a pass or fail plus some more information.
+
+Section 2: 
+- DisplayName names the test in the terminal/test suite
+- Assertions test for pass or fail
+- Assumptions can be used to terminate tests before completion if conditions are/aren't met
+
+Section 3:
+- RepeatedTest can be used to repeat tests a certain number of times
+- A RepetitionInfo parameter can be added to the test method to get information about the Repetition.
+- ParameterizedTest can be used to pass an array of values to test multiple cases
+- ValueSource can be used to pass values where EnumSource can be used to pass an Enum/certain values of the Enum
+- CSVSource can be used to pass a CSV representation (Comma Separated Values) and it can have multiple parameters assigned to them (500, Bob => int age, String name for example)
+- Timeouts can be set to limit how long a function can attempt to run for
+- Parallel Execution can be used to use more threads and speed up overall testing time
+
+2.
+Matt Greencroft doesn't have his LinkedIn courses available and I can only find it on Udemy for 70$
+
+3.
+https://github.com/YesVRC/csc-211/tree/master/Assignment5
