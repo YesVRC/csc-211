@@ -1,0 +1,11 @@
+1. AWT being platform independant is useful because we don't need to write condition and components for each OS and their unique rendering APIs.
+
+2. The JVM is useful for a similar reason, where the same Java code can run on any machine as long as the OS has Java installed.
+
+3. Object is at the top because Java is Object-Oriented so there has to be a single class that everything builds off of.
+
+4. Java packages are bundles of code that can be used to reuse functionality across projects.
+
+5. Events are signals that are sent when certain conditions are met, and can be consumed to perform functions based on the event and its type.
+
+6. https://github.com/YesVRC/csc-211/blob/master/Assignment6/src/Main.java
