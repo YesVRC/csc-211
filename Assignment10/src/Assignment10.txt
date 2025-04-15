@@ -1,0 +1,5 @@
+Abstract lets you define the shape of a class and add some implementation, while not allowing the abstract class itself to instantiate.
+Interfaces let you define required behaviour but not implementation
+
+Abstract is mainly for Inheritance
+Interface is mainly for Composition
