@@ -1,0 +1,3 @@
+1. A Generic is a type of object/class that is designed to work with and manipulate any other class (denoted as <T>). Some common examples are List<T> HashMap<T>. These classes can accept any other class (including itself) in the T parameter.
+2. Recursion is best avoided when a fixed number of steps is required, or when a loop will be a better fit either logically or for readability.
+3. Throwables are better when trying to handle logic errors as opposed to Java errors (InputMismatch, Arithmetic, NullPointer, etc).
